@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Scroll Counter</string>
-    <string name="accessibility_service_description">Detects when you move between Reels so it can count them. Only TikTok Videos, Instagram Reels and Youtube Shorts is observed. No content is stored or sent anywhere.</string>
+    <string name="accessibility_service_description">Detects when you move between Reels so it can count them. Only TikTok Videos, Instagram Reels and Youtube Shorts is observed. No content is stored or sent anywhere .</string>
 </resources>
